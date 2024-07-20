@@ -31,6 +31,8 @@ tcp:
         - msfadmin
         - admin
         - root
+        - Administrator
+        - Guest
 
     matchers:
       - type: word
