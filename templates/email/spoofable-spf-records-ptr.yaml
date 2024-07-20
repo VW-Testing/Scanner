@@ -11,7 +11,7 @@ info:
     cwe-id: CWE-200
   metadata:
     max-request: 1
-  tags: dns,spf
+  tags: email,spf
 
 dns:
   - name: "{{FQDN}}"
