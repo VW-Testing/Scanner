@@ -1,0 +1,1 @@
+nuclei -t templates/email/ -sa -ni

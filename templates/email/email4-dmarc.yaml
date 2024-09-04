@@ -1,8 +1,8 @@
-id: dmarc-detect
+id: Email-4-Dmarc-OK
 
 info:
-  name: DNS DMARC - Detect
-  author: juliosmelo
+  name: EMAIL.4 - DMARC OK
+  author: rfs
   severity: info
   description: |
     DNS DMARC information was detected.

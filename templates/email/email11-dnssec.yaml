@@ -1,7 +1,7 @@
-id: dnssec-detection
+id: Email-11-DnsSec-OK
 
 info:
-  name: DNSSEC Detection
+  name: RFS-DNSSEC Detection
   author: pdteam
   severity: info
   description: Domain Name System Security Extensions (DNSSEC) are enabled. The Delegation of Signing (DS) record provides information about a signed zone file when DNSSEC enabled.
